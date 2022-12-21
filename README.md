@@ -1,7 +1,7 @@
 ALX Simple Shell Team Project
 This is an ALX collaboration project on Shell. Our shell shall be called hsh
 
-Project was completed by MASUD LAWAL DILA & RUFAI ALIYU MUHAMMED using
+Project was completed by MASUD L DILA & RUFAI ALIYU MUHAMMED using
 C language
 Shell
 Betty linter
